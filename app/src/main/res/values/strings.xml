@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="emptystr" />
+    <string name="title_activity_maps">Map</string>
+</resources>
